@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "94defdc06569914c884ce7fb0f0637ce"
-build_time: [540724410, 129428000]
-inputs:
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2017_Project/2\u6708/KeyboardToolbar/KeyboardToolbar/ViewController.swift": [540724410, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2017_Project/2\u6708/KeyboardToolbar/KeyboardToolbar/KeyboardToolbar.swift": [540715953, 0]
-  "/Users/KentarOu/Desktop/\u30C6\u3099\u30B9\u30AF\u30C8\u30C3\u30D5\u309A/DeskTop/Xcode_Project/2017_Project/2\u6708/KeyboardToolbar/KeyboardToolbar/AppDelegate.swift": [540715806, 0]
